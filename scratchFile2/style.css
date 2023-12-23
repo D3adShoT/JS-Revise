@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+.para {
+    font-weight: bolder;
+    height: 100px;
+    width: 200 px;
+    background-color: blanchedalmond;
+}
+
+.newClass {
+    font-weight: lighter;
+    background-color: aquamarine;
+}
