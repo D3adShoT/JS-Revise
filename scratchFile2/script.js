@@ -6,6 +6,7 @@ newBut.style.backgroundColor = 'red';
 newBut.style.color='white';
 selBody.after(newBut);
 newBut.remove();
+
 /*
 let paraEle = document.querySelector("p");
 console.dir(paraEle);
