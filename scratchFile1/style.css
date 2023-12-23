@@ -3,6 +3,16 @@ h1 {
     background-color: aquamarine;
 }
 
+/* For assigning css to a defined ID */
+#heading {
+    color: blueviolet;
+}
+
+/* For assigning css to a defined class */
+.heading {
+    color: beige;
+}
+
 body {
     background-color: pink;
 }
