@@ -33,3 +33,4 @@ const student = {
     isPass:true,
 }
 console.log(student);
+
